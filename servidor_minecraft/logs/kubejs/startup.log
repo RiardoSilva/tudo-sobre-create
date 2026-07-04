@@ -1,0 +1,7 @@
+[22:57:43] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[22:57:43] [INIT] Loaded plugins:
+[22:57:43] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[22:57:43] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[22:57:44] [INFO] Loaded script startup_scripts:main.js in 0.447 s
+[22:57:44] [INFO] Loaded 1/1 KubeJS startup scripts in 1.265 s with 0 errors and 0 warnings
+[22:57:44] [INFO] Validated 0 files in kubejs/data/ in 10ms
